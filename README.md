@@ -1,7 +1,7 @@
 ### I'm Maham 👋
 
 🔭 I’m currently working with: Carte Blanche
-- 📫 How to reach me: mhm.anwaar2@gmail.com
+📫 How to reach me: mhm.anwaar2@gmail.com
 
 <!--
 **Maham-Anwaar/Maham-Anwaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
