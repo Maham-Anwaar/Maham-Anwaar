@@ -8,6 +8,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maham-Anwaar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231">
 </p>
 
+<p align='right'>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maham-Anwaar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231" />
+</p>
+
 <!--START_SECTION:waka-->
 
 
