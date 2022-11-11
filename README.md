@@ -4,8 +4,8 @@
 
 ![]([https://bit.ly/3hCYy84])
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maham-Anwaar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231" />
+<p align='left'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maham-Anwaar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231">
 </p>
 
 <!--START_SECTION:waka-->
