@@ -2,7 +2,6 @@
 
 <h3 align="center">A passionate Sofware Engineer from Pakistan 🇵🇰</h3>
 
-![https://bit.ly/3hCYy84]
 ![]([https://bit.ly/3hCYy84])
 
 <!--START_SECTION:waka-->
