@@ -2,9 +2,9 @@
 
 🚀   I'm a developer and I love building cool things with code. 
 
-🚀   I'm always looking for new and interesting challenges, so feel free to reach out if you have an idea for a project or collaboration. 👩‍💻
+🚀   I'm always looking for new and interesting challenges, so feel free to reach out if you have an idea for a project. 👩‍💻
 
-🚀   In my free time, I enjoy hiking, reading, and spending time with my family. I also have a slight addiction to chocolate chip cookies. 🍪
+🚀   In my free time, I enjoy reading, and spending time with my friends. I also have a slight addiction to chocolate chip cookies. 🍪
 
 Thanks again for stopping by!
 
