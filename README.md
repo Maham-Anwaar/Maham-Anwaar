@@ -1,10 +1,13 @@
-<h1 align="center"><b>Hi , I'm Maham </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <h3 align="center">A passionate Sofware Engineer from Pakistan 🇵🇰</h3>
 
-<p>
-    I want to be the very best like no one ever was.. :sob:
-</p>
+Thanks for checking out my github profile. I'm a developer and I love building cool things with code.
+
+
+I'm always looking for new and interesting challenges, so feel free to reach out if you have an idea for a project or collaboration.
+
+In my free time, I enjoy hiking, reading, and spending time with my family. I also have a slight addiction to chocolate chip cookies.
+
+Thanks again for stopping by!
 
 ![]([https://bit.ly/3hCYy84])
 
