@@ -20,8 +20,7 @@ Thanks again for stopping by!
 <!--START_SECTION:waka-->
 
 ```text
-Python       40 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.72 %
-TypeScript   32 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
