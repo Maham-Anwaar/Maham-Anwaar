@@ -18,8 +18,7 @@ Thanks again for stopping by!
 <!--START_SECTION:waka-->
 
 ```txt
-Text     1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.83 %
-Python   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
