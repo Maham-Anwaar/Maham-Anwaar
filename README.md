@@ -26,6 +26,7 @@ Git Config   0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Maham-Anwaar)
+<summary> <b>📊 Some Leetcode stats </b></summary>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Maham-Anwaar?ext=activity?theme=nord)
 
 
