@@ -28,8 +28,8 @@ Git Config   0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <summary> <b>📊 Some Leetcode stats </b></summary>
 
-<p align='center'>
+
  ![Leetcode Stats](https://leetcard.jacoblin.cool/Maham-Anwaar/?ext=activity?theme=nord)
-</p>
+
 
 
