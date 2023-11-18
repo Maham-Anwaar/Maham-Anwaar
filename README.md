@@ -26,4 +26,6 @@ Git Config   0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Maham-Anwaar)
+
 
