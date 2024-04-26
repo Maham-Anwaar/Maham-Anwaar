@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Sofware Engineer from Pakistan 🇵🇰</h3>
+<h3 align="center">=Sofware Engineer</h3>
 
 I love tinkering with code. I may not have a PhD, but I do have a sense of humor and a love for all things nerdy. Whether it's building a killer app or cracking a bad joke, I'm always up for a challenge. 🚀
 
