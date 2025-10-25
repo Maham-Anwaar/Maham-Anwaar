@@ -18,9 +18,7 @@ Thanks again for stopping by!
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀   94.28 %
-Markdown     0 secs          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.13 %
-TypeScript   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
